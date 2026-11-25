@@ -1,0 +1,7 @@
+{"at":36,"kind":"storage_pressure","reference":"local","object":null,"free_units":11}
+{"at":45,"kind":"fetch_ready","reference":"fetch-1","object":"base-c","free_units":null}
+{"at":49,"kind":"fetch_ready","reference":"fetch-2","object":"cfg2","free_units":null}
+{"at":56,"kind":"delete_claimed","reference":"del2","object":"base-i","free_units":null}
+{"at":58,"kind":"storage_pressure","reference":"local","object":null,"free_units":6}
+{"at":60,"kind":"deleted","reference":"del2","object":"base-i","free_units":null}
+{"at":62,"kind":"fetch_ready","reference":"fetch-2","object":"cfg2","free_units":null}

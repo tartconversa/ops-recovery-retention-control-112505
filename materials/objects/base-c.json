@@ -1,0 +1,7 @@
+{
+  "base": {
+    "model": "routine-a",
+    "threshold": 4,
+    "lane": "west"
+  }
+}

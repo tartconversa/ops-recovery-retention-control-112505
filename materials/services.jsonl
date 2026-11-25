@@ -1,0 +1,2 @@
+{"unit":"sync","members":["config","index"],"fetch_slots":2,"restore_slots":1,"minimum_free_space":2}
+{"unit":"rules","members":["rules"],"fetch_slots":2,"restore_slots":1,"minimum_free_space":2}

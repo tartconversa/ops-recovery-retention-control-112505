@@ -1,0 +1,7 @@
+{
+  "set": {
+    "model": "routine-b",
+    "threshold": 5
+  },
+  "remove": []
+}

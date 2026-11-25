@@ -1,0 +1,7 @@
+{
+  "set": {
+    "ref": "routine-b",
+    "segment": 42
+  },
+  "remove": []
+}

@@ -1,0 +1,7 @@
+{
+  "base": {
+    "ref": "routine-a",
+    "segment": 41,
+    "lane": "west"
+  }
+}

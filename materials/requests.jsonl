@@ -1,0 +1,7 @@
+{"at":32,"kind":"restore","reference":"dr1","members":["config","index"],"earliest_point":10,"deadline":64,"object":null}
+{"at":34,"kind":"restore","reference":"dr2","members":["config","index","rules"],"earliest_point":8,"deadline":75,"object":null}
+{"at":35,"kind":"cleanup","reference":"del1","members":null,"earliest_point":null,"deadline":null,"object":"base-c"}
+{"at":37,"kind":"cancel","reference":"dr1","members":null,"earliest_point":null,"deadline":null,"object":null}
+{"at":48,"kind":"restore","reference":"dr3","members":["config","index"],"earliest_point":10,"deadline":73,"object":null}
+{"at":55,"kind":"cleanup","reference":"del2","members":null,"earliest_point":null,"deadline":null,"object":"base-i"}
+{"at":61,"kind":"cleanup","reference":"del3","members":null,"earliest_point":null,"deadline":null,"object":"idx1"}
